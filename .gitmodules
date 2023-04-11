@@ -1,0 +1,3 @@
+[submodule "hardhat-vyper"]
+	path = hardhat-vyper
+	url = https://github.com/DEMYSTIF/hardhat-vyper-example
